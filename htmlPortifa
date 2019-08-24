@@ -33,7 +33,7 @@
 	<div class="projectsDiv" >
 	<h3 id="projectsID">Projects</h3>
 		<div class="projectsContainer">
-			<a href="https://codepen.io/RMiriuk/full/MLMXEB" target="_blank"><img src="https://res.cloudinary.com/mirir/image/upload/c_limit,h_768/v1566246771/Project2_copy_qnznam.jpg" alt="My project 1" href="#"  class="photoProject project1"></a>
+			<a href="https://codepen.io/RMiriuk/full/JjPEggR" target="_blank"><img src="https://res.cloudinary.com/mirir/image/upload/v1566643285/Portifolio/Thumbnail_n7cd5g.jpg" alt="Marcus Aurelius Tribute" href="#"  class="photoProject project1"></a>
 			<a href="https://codepen.io/RMiriuk/full/YMeGeK"target="_blank"><img src="https://res.cloudinary.com/mirir/image/upload/c_limit,h_768/v1566246771/Project2_copy_qnznam.jpg" alt="My project 2" href="#" class="photoProject project2"></a>
 			<a href="https://codepen.io/RMiriuk/full/VNyYjZ" target="_blank"><img src="https://res.cloudinary.com/mirir/image/upload/c_limit,h_768/v1566246771/Project2_copy_qnznam.jpg" alt="My project 3" href="#" class="photoProject project3"></a>
 		</div>
