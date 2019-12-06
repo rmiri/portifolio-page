@@ -1,5 +1,3 @@
-
-
 html{
 	width: 100%;
 	height: 100%;
@@ -9,8 +7,16 @@ html{
 	border: none;
 	z-index: 1;
 }
+
+
+
+
+
 body {
 	margin-top: 80px;
+
+	/* --------------change-------------------------------*/
+	margin-left: 0;
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -28,7 +34,7 @@ p, a {
 	background: white;
 	overflow: hidden;
 	position: fixed;
-	margin: 0 -10px 2px;
+	margin: 0px;
 	top: 0px;
 	width: 100%;
 	box-shadow: 0 -2px 6px 0 rgba(0,0,0,.2);
@@ -90,7 +96,6 @@ header {
   	height: 100vh;
   	width: 100vw;
 }/*
-
 .headerButton {
 	height: 40px;
 	width: 180px;
@@ -233,6 +238,9 @@ header button{
 	margin-right: 5vw;
 	border-radius: 5px;
 	box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.smallAboutImg{
+	display: none;
 }
 .aboutText {
 	height: 30vh;
